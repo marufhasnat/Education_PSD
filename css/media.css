@@ -1,0 +1,1062 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 320px) and (max-width: 374.00px){
+/*header start*/
+.logo{
+	width: 150px;
+}
+.menu ul li a{
+	float: right;
+}
+.btn-user{
+	float: right;
+
+}
+.btn-search{
+	float: right;
+}
+.btn-search{
+    float: right;
+    margin-right: -56px;
+}
+.btn-user:focus,.btn-search:focus{
+    outline: 0;
+    box-shadow: 0 0 0 0rem rgb(240, 92, 92);
+}
+.d_user {
+    left: 150px;
+}
+.d_search {
+    top: 44px;
+    left: -20px;
+}
+/*header end*/
+
+/*banner start*/
+.banner{
+	background-image: none;
+	background-color: white;
+	margin-bottom: 35px;
+}
+.banner_content {
+    margin-top: 55px;
+    margin-bottom: 35px;
+}
+.banner_content h1 {
+    font-size: 30px;
+}
+/*banner end*/
+
+/*kid_1 start*/
+.discovery{
+	width: 150px;
+}
+.s_img {
+    margin-top: -10px;
+    margin-bottom: 25px;
+}
+/*kid_1 end*/
+
+/*kid_2 start*/
+.kid_2 {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.kid_img img{
+	margin-left: 16px;
+}
+.kid_content h1 {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+/*kid_2 end*/
+
+/*courses start*/
+.courses {
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+.c_title h1 {
+    font-size: 28px;
+}
+.cus-card{
+	margin-bottom: 40px;
+}
+.bord{
+	margin-bottom: 40px;
+}
+.ca_img img{
+	min-height: 30px;
+	margin-top: 5px;
+}
+/*courses end*/
+
+/*moment start*/
+.m_text {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.mo_img {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+/*moment end*/
+
+/*contact start*/
+.contact {
+    margin-top: 55px;
+    margin-bottom: 30px;
+}
+.t_content h2 {
+    margin-top: 20px;
+}
+/*contact end*/
+
+/*work start*/
+.work{
+	padding-bottom: 60px;
+}
+.w_content h1 {
+    font-size: 40px;
+}
+.w_content h2 {
+    font-size: 18px;
+}
+/*work end*/
+
+/*timeline start*/
+.timeline{
+	text-align: center;
+	margin-bottom: 10px;
+}
+.ti_title hr {
+    margin-left: 15px;
+    margin-bottom: 50px;
+}
+.date_sm {
+    margin-left: 97px;
+}
+.m-b-n {
+    margin-bottom: 5px;
+}
+.ha_t{
+	margin-top: 60px;
+}
+.sky_hr {
+	width: 280px;
+    margin-left: 6px;
+}
+.gre_hr {
+	width: 280px;
+    margin-left: 6px;
+}
+.ora_hr {
+	width: 280px;
+    margin-left: 6px;
+}
+/*timeline end*/
+
+/*details start*/
+.details{
+	background-image: none;
+	background-color: white;
+	padding-bottom: 60px;
+}
+.dt_img_1 {
+    margin-top: 50px;
+    text-align: center;
+}
+.dt_text_1 {
+    text-align: center;
+}
+.dt_text_2 {
+    margin-top: 50px;
+    text-align: center;
+}
+.borde {
+    margin-bottom: 35px;
+}
+.dt_text_3 {
+    text-align: center;
+    margin-top: 50px;
+}
+.addr {
+    text-align: center;
+}
+.get {
+    text-align: center;
+}
+.icons{
+	text-align: center;
+}
+/*details end*/
+
+/*footer start*/
+.list-part ul {
+    text-align: center;
+}
+.list-part ul li a {
+    font-size: 16px;
+}
+.right-part p {
+    text-align: center;
+}
+/*footer end*/
+}
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 375px) and (max-width: 424.00px){
+/*header start*/
+.logo{
+	width: 150px;
+}
+.menu ul li a{
+	float: right;
+}
+.btn-user{
+	float: right;
+
+}
+.btn-search{
+	float: right;
+}
+.btn-search{
+    float: right;
+    margin-right: -56px;
+}
+.btn-user:focus,.btn-search:focus{
+    outline: 0;
+    box-shadow: 0 0 0 0rem rgb(240, 92, 92);
+}
+.d_user {
+    left: 200px;
+}
+.d_search {
+   	top: 44px;
+    left: 32px;
+}
+/*header end*/
+
+/*banner start*/
+.banner{
+	background-image: none;
+	background-color: white;
+	margin-bottom: 35px;
+}
+.banner_content {
+    margin-top: 55px;
+    margin-bottom: 35px;
+}
+.banner_content h1 {
+    font-size: 30px;
+}
+/*banner end*/
+
+/*kid_1 start*/
+.discovery{
+	width: 150px;
+}
+.s_img{
+	margin-top: -10px;
+	margin-bottom: 25px;
+}
+/*kid_1 end*/
+
+/*kid_2 start*/
+.kid_2 {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.kid_img img{
+	margin-left: 28px;
+}
+.kid_content h1 {
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+/*kid_2 end*/
+
+/*courses start*/
+.courses {
+    padding-top: 50px;
+    padding-bottom:30px;
+}
+.c_title h1 {
+    font-size: 28px;
+}
+.cus-card{
+	margin-bottom: 40px;
+}
+.bord{
+	margin-bottom: 40px;
+}
+.ca_img img{
+	min-height: 30px;
+	margin-top: 5px;
+}
+/*courses end*/
+
+/*moment start*/
+.m_text {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.mo_img {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+/*moment end*/
+
+/*contact start*/
+.contact {
+    margin-top: 55px;
+    margin-bottom: 40px;
+}
+.t_content h2 {
+    margin-top: 20px;
+}
+
+/*contact end*/
+
+/*work start*/
+.work{
+	padding-bottom: 60px;
+}
+.w_content h1 {
+    font-size: 40px;
+}
+.w_content h2 {
+    font-size: 18px;
+}
+/*work end*/
+
+
+/*timeline start*/
+.timeline{
+	text-align: center;
+	margin-bottom: 20px;
+}
+.ti_title hr {
+    margin-left: 45px;
+    margin-bottom: 50px;
+}
+.date_sm{
+	margin-left: 124px;
+}
+.m-b-n {
+    margin-bottom: 5px;
+}
+.ha_t{
+	margin-top: 60px;
+}
+.sky_hr {
+    margin-left: 6px;
+}
+.gre_hr {
+    margin-left: 6px;
+}
+.ora_hr {
+    margin-left: 6px;
+}
+/*timeline end*/
+
+
+/*details start*/
+.details{
+	background-image: none;
+	background-color: white;
+	padding-bottom: 60px;
+}
+.dt_img_1 {
+    margin-top: 50px;
+    text-align: center;
+}
+.dt_text_1 {
+    text-align: center;
+}
+.dt_text_2 {
+    margin-top: 50px;
+    text-align: center;
+}
+.borde {
+    margin-bottom: 35px;
+}
+.dt_text_3 {
+    text-align: center;
+    margin-top: 50px;
+}
+.addr {
+    text-align: center;
+}
+.get {
+    text-align: center;
+}
+.icons{
+	text-align: center;
+}
+/*details end*/
+
+/*footer start*/
+.list-part ul {
+    text-align: center;
+}
+.list-part ul li a {
+    font-size: 14px;
+}
+.right-part p {
+    text-align: center;
+}
+/*footer end*/
+
+}
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 425px) and (max-width: 575.98px){
+/*header start*/
+.logo{
+	width: 150px;
+}
+.menu ul li a{
+	float: right;
+}
+.btn-user{
+	float: right;
+
+}
+.btn-search{
+	float: right;
+}
+.btn-search{
+    float: right;
+    margin-right: -56px;
+}
+.btn-user:focus,.btn-search:focus{
+    outline: 0;
+    box-shadow: 0 0 0 0rem rgb(240, 92, 92);
+}
+.d_user {
+    left: 259px;
+}
+.d_search {
+   	top: 44px;
+    left: 82px;
+}
+/*header end*/
+
+/*banner start*/
+.banner{
+	background-image: none;
+	background-color: white;
+	margin-bottom: 35px;
+}
+.banner_content {
+    margin-top: 65px;
+    margin-bottom: 40px;
+}
+/*banner end*/
+
+/*kid_1 start*/
+.discovery{
+	width: 150px;
+}
+.s_img{
+	margin-top: -10px;
+	margin-bottom: 25px;
+}
+/*kid_1 end*/
+
+/*kid_2 start*/
+.kid_2 {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.kid_img img{
+	margin-left: 38px;
+}
+.kid_content h1 {
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+/*kid_2 end*/
+
+
+/*courses start*/
+.courses {
+    padding-top: 55px;
+    padding-bottom: 30px;
+}
+.cus-card{
+	margin-bottom: 40px;
+}
+.bord{
+	margin-bottom: 40px;
+}
+.ca_img img{
+	min-height: 30px;
+	margin-top: 5px;
+}
+/*courses end*/
+
+/*moment start*/
+.m_text {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.mo_img {
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+/*moment end*/
+
+
+/*contact start*/
+.contact {
+    margin-top: 55px;
+    margin-bottom: 30px;
+}
+.t_content h2 {
+    margin-top: 20px;
+}
+/*contact end*/
+
+/*work start*/
+.work{
+	padding-bottom: 60px;
+}
+.w_content h1 {
+    font-size: 40px;
+}
+.w_content h2 {
+    font-size: 18px;
+}
+/*work end*/
+
+/*timeline start*/
+.timeline{
+	text-align: center;
+	margin-bottom: 20px;
+}
+.ti_title hr {
+    margin-left: 70px;
+    margin-bottom: 50px;
+}
+.date_sm{
+	margin-left: 148px;
+}
+.m-b-n {
+    margin-bottom: 5px;
+}
+.ha_t{
+	margin-top: 60px;
+}
+.sky_hr {
+    margin-left: 23px;
+}
+.gre_hr {
+    margin-left: 23px;
+}
+.ora_hr {
+    margin-left: 23px;
+}
+/*timeline end*/
+
+/*details start*/
+.details{
+	background-image: none;
+	background-color: white;
+	padding-bottom: 60px;
+}
+	
+.dt_img_1 {
+    margin-top: 50px;
+    text-align: center;
+}
+.dt_text_1 {
+    text-align: center;
+}
+.dt_text_2 {
+    margin-top: 50px;
+    text-align: center;
+}
+.borde {
+    margin-bottom: 35px;
+}
+.dt_text_3 {
+    text-align: center;
+    margin-top: 50px;
+}
+.addr {
+    text-align: center;
+}
+.get {
+    text-align: center;
+}
+.icons{
+	text-align: center;
+}
+/*details end*/
+
+
+/*footer start*/
+.list-part ul {
+    text-align: center;
+}
+.list-part ul li a {
+    font-size: 17px;
+}
+.right-part p {
+    text-align: center;
+}
+/*footer end*/
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.logo{
+	width: 180px;
+}
+.menu ul li a{
+	float: right;
+}
+.btn-user{
+	float: right;
+
+}
+.btn-search{
+	float: right;
+}
+.btn-search{
+    float: right;
+    margin-right: -56px;
+}
+.btn-user:focus,.btn-search:focus{
+    outline: 0;
+    box-shadow: 0 0 0 0rem rgb(240, 92, 92);
+}
+.d_user {
+    float: right;
+    top: 68px;
+    left: 381px;
+}
+.d_search {
+    top: 44px;
+    left: 200px;
+    min-width: 280px;
+}
+
+/*header end*/
+
+/*banner start*/
+.banner{
+	background-image: none;
+	background-color: white;
+	margin-bottom: 55px;
+}
+.banner_content {
+    margin-top: 80px;
+    margin-bottom: 45px;
+}
+/*banner end*/
+
+/*kid_1 start*/
+.discovery{
+	width: 150px;
+}
+.s_img{
+	margin-top: -5px;
+	margin-bottom: 25px;
+}
+/*kid_1 end*/
+
+/*kid_2 start*/
+.kid_2 {
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.kid_content h1 {
+    font-size: 18px;
+}
+
+/*kid_2 end*/
+
+
+/*courses start*/
+.courses {
+    padding-top: 60px;
+    padding-bottom: 55px;
+}
+.cus-card{
+	margin-bottom: 40px;
+}
+.bord{
+	margin-bottom: 40px;
+}
+.ca_img img{
+	margin-top: 5px;
+}
+.ca_img img{
+	min-height: 35px;
+	margin-top: 5px;
+}
+/*courses end*/
+
+/*moment start*/
+.m_text {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.mo_img {
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+/*moment end*/
+
+/*contact start*/
+.contact {
+    margin-top: 55px;
+    margin-bottom: 45px;
+}
+.t_content {
+    text-align: center;
+}
+.t_content h2 {
+    margin-top: 20px;
+}
+.t_img img{
+	margin-left: 140px;
+	text-align: center;
+}
+/*contact end*/
+
+/*work start*/
+.w_content h1 {
+    font-size: 50px;
+}
+.w_content h2 {
+    font-size: 18px;
+}
+/*work end*/
+
+/*timeline start*/
+.timeline{
+	text-align: center;
+    margin-bottom: -130px;
+}
+.ti_title hr {
+    margin-left: 130px;
+    margin-bottom: 55px;
+}
+.date_sm{
+	margin-left: 206px;
+}
+.m-b-n {
+    margin-bottom: 5px;
+}
+.ha_t{
+	margin-top: 60px;
+}
+.sky_hr {
+    margin-left: 76px;
+}
+.gre_hr {
+    margin-left: 76px;
+}
+.ora_hr {
+    margin-left: 76px;
+}
+/*timeline end*/
+
+/*details start*/
+.details{
+	padding-bottom: 60px;
+}
+.dt_img_1 {
+    margin-top: 265px;
+}
+.dt_text_2 {
+    margin-top: 286px;
+}
+.dt_text_3{
+	margin-top: 30px;
+}
+.addr {
+    font-size: 13px;
+}
+/*details end*/
+
+
+/*footer start*/
+.list-part ul {
+    text-align: center;
+}
+
+.right-part p {
+    text-align: center;
+}
+/*footer end*/
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.menu ul li a{
+	float: right;
+}
+.btn-user{
+	float: right;
+
+}
+.btn-search{
+	float: right;
+}
+.btn-search{
+    float: right;
+    margin-right: -56px;
+}
+.btn-user:focus,.btn-search:focus{
+    outline: 0;
+    box-shadow: 0 0 0 0rem rgb(240, 92, 92);
+}
+.d_user {
+    float: right;
+    top: 68px;
+    left: 551px;
+}
+.d_search {
+    top: 44px;
+    left: 375px;
+}
+/*header end*/
+
+/*banner start*/
+.banner {
+    margin-bottom: 50px;
+}
+.banner_content {
+    margin-top: 210px;
+    margin-bottom: 170px;
+}
+.k_text h1 {
+    font-size: 25px;
+}
+/*banner end*/
+
+/*kid_1 start*/
+.k_content p{
+	font-size: 14px;
+}
+.discovery{
+	width: 160px;
+}
+.s_img{
+	margin-top: 40px;
+}
+/*kid_1 end*/
+
+/*kid_2 start*/
+.kid_content h1 {
+    font-size: 20px;
+}
+
+/*kid_2 end*/
+/*courses start*/
+.courses {
+    padding-top: 65px;
+    padding-bottom: 80px;
+}
+.cus-card{
+	margin-bottom: 45px;
+}
+.bord{
+	margin-left: 160px;
+	margin-bottom: 45px;
+}
+.ca_img img{
+	min-height: 40px;
+	margin-top: 5px;
+}
+/*courses end*/
+
+/*moment start*/
+.m_text {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.mo_img {
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+/*moment end*/
+
+/*contact start*/
+.contact {
+    margin-top: 65px;
+    margin-bottom: 60px;
+}
+.t_content {
+    margin-top: 40px;
+}
+/*contact end*/
+
+/*work start*/
+.w_content h1 {
+    font-size: 50px;
+}
+.w_content h2 {
+    font-size: 18px;
+}
+/*work end*/
+
+/*timeline start*/
+.timeline {
+    margin-bottom: -130px;
+}
+.ti_title hr {
+    margin-bottom: 50px;
+}
+.date {
+    width: 70px;
+    height: 70px;
+}
+.date h4 {
+    font-size: 18px;
+}
+.date p {
+    font-size: 16px;
+}
+.time {
+    font-size: 14px;
+    margin-top: 10px;
+}
+.timel {
+    margin-top: 30px;
+}
+.time h3 {
+    font-size: 20px;
+    margin-top: 36px;
+}
+.time_p2 {
+    line-height: 20px;
+    word-spacing: 0px;
+}
+.news_text h1 {
+    font-size: 21px;
+}
+.news_text p {
+    word-spacing: 0px;
+    letter-spacing: 0px;
+}
+.sky_hr {
+    width: 225px;
+}
+.gre_hr {
+    width: 225px;
+}
+.ora_hr {
+    width: 225px;
+}
+.n_img{
+	margin-top: 20px;
+}
+/*timeline end*/
+
+
+/*details start*/
+.details{
+	padding-bottom: 60px;
+}
+.dt_img_1 {
+    margin-top: 265px;
+}
+.dt_text_2 {
+    margin-top: 286px;
+}
+.dt_text_3{
+	margin-top: 30px;
+}
+/*details end*/
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.menu ul li a {
+    padding: 0 10px !important;
+}
+/*header end*/
+
+/*banner start*/
+.banner_content {
+    margin-top: 225px;
+    margin-bottom: 225px;
+}
+.banner_content h1 {
+    font-size: 45px;
+}
+.scroll {
+    margin-bottom: -20px;
+}
+/*banner end*/
+
+/*kid_1 start*/
+.discovery{
+	width: 180px;
+}
+.s_img{
+	margin-top: 25px;
+}
+/*kid_1 end*/
+
+/*kid_2 start*/
+.kid_content h1 {
+    font-size: 18px;
+}
+/*kid_2 end*/
+
+/*courses start*/
+.ca_text_2{
+	letter-spacing: 1px;
+	word-spacing: 1px;
+}
+/*courses end*/
+/*contact start*/
+.t_face{
+	margin-top: 20px;
+}
+/*contact end*/
+/*timeline start*/
+.timeline{
+	margin-bottom: -40px;
+}
+.time h3 {
+    font-size: 22px;
+}
+.news_text p {
+    word-spacing: 0px;
+    letter-spacing: 0px;
+}
+.sky_hr {
+    width: 265px;
+}
+.gre_hr {
+    width: 265px;
+}
+.ora_hr {
+    width: 265px;
+}
+.n_img {
+    margin-top: 20px;
+}
+.dit{
+	margin-top: -14px;	
+}
+/*timeline end*/
+/*details start*/
+.details{
+	padding-bottom: 80px;
+}
+/*details end*/
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
